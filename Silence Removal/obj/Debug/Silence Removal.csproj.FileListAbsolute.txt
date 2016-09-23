@@ -1,0 +1,7 @@
+C:\Users\Rahul\Documents\Visual Studio 2012\Projects\Silence Removal\Silence Removal\bin\Debug\Silence Removal.exe.config
+C:\Users\Rahul\Documents\Visual Studio 2012\Projects\Silence Removal\Silence Removal\bin\Debug\Silence Removal.exe
+C:\Users\Rahul\Documents\Visual Studio 2012\Projects\Silence Removal\Silence Removal\bin\Debug\Silence Removal.pdb
+C:\Users\Rahul\Documents\Visual Studio 2012\Projects\Silence Removal\Silence Removal\obj\Debug\Silence Removal.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Documents\Visual Studio 2012\Projects\Silence Removal\Silence Removal\obj\Debug\Silence Removal.exe
+C:\Users\Rahul\Documents\Visual Studio 2012\Projects\Silence Removal\Silence Removal\obj\Debug\Silence Removal.pdb
+C:\Users\Rahul\Documents\Visual Studio 2012\Projects\Silence Removal\Silence Removal\obj\Debug\Silence Removal.g.resources
